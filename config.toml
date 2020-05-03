@@ -1,4 +1,4 @@
-baseURL = "www.makwaijun.com"
+baseURL = ""
 title = "It's Wai Jun"
 languageCode = "en"
 theme = "devise"
