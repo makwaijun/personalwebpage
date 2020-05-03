@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = ""
 title = "It's Wai Jun"
 languageCode = "en"
 theme = "devise"
