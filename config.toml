@@ -1,4 +1,4 @@
-baseURL = "https://makwaijun.github.io/"
+baseURL = "www.makwaijun.com"
 title = "It's Wai Jun"
 languageCode = "en"
 theme = "devise"
